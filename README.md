@@ -15,7 +15,7 @@ Built a role-based Android app in Java with Firebase Authentication and Firestor
 ### Authentication & Onboarding
 | Login | Register |
 |:---:|:---:|
-| <img src="screenshots/MainLogin.png" width="300"> | <img src="screenshots/Register.png" width="300"> |
+| <img src="Screenshots/MainLogin.png" width="300"> | <img src="screenshots/Register.png" width="300"> |
 
 ### Provider Dashboard
 | Provider Home | Add Client | Remove Client |
