@@ -15,19 +15,19 @@ Built a role-based Android app in Java with Firebase Authentication and Firestor
 ### Authentication & Onboarding
 | Login | Register |
 |:---:|:---:|
-| <img src="Screenshots/MainLogin.png" width="300"> | <img src="screenshots/Register.png" width="300"> |
+| <img src="Screenshots/MainLogin.png" width="300"> | <img src="Screenshots/Register.png" width="300"> |
 
 ### Provider Dashboard
 | Provider Home | Add Client | Remove Client |
 |:---:|:---:|:---:|
-| <img src="screenshots/ProviderScreen.png" width="250"> | <img src="screenshots/ProviderAddClient.png" width="250"> | <img src="screenshots/ProviderRemoveClient.png" width="250"> |
+| <img src="Screenshots/ProviderScreen.png" width="250"> | <img src="Screenshots/ProviderAddClient.png" width="250"> | <img src="Screenshots/ProviderRemoveClient.png" width="250"> |
 
 ### User Features
 | Home Screen | Assessments | Exercises |
 |:---:|:---:|:---:|
-| <img src="screenshots/UserScreen.png" width="250"> | <img src="screenshots/UserTakeAssessment.png" width="250"> | <img src="screenshots/Excerises.png" width="250"> |
+| <img src="Screenshots/UserScreen.png" width="250"> | <img src="Screenshots/UserTakeAssessment.png" width="250"> | <img src="Screenshots/Excerises.png" width="250"> |
 
 ### User History & Settings
 | History | Settings |
 |:---:|:---:|
-| <img src="screenshots/UserHistory.png" width="300"> | <img src="screenshots/UserSettings.png" width="300"> |
+| <img src="Screenshots/UserHistory.png" width="300"> | <img src="Screenshots/UserSettings.png" width="300"> |
